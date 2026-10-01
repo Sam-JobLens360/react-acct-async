@@ -5,7 +5,7 @@
 ![Data](https://img.shields.io/badge/Data-No%20Persistent%20Storage-red)
 ![Purpose](https://img.shields.io/badge/Purpose-Account%20Reconciliation-blue)
 
-A lightweight, stand-alone reconciliation tool built on the fly to compare account balances between an **online account** and **local accounting software**.
+A lightweight, stand-alone reconciliation tool built on the fly to compare account balances between two accounting systems.
 
 This app was created for one core purpose:  
 when balances didn’t match, I needed a fast way to move through records **step by step**, isolate discrepancies, and identify where things went off track.
@@ -30,11 +30,10 @@ It’s intentionally simple and practical—built to solve a real reconciliation
 
 - **Stand-alone app** (no backend dependency required for core workflow)
 - **No persistent data storage** (session-only usage)
-- **Built rapidly** for immediate troubleshooting needs
+- **Built rapidly** for immediate banking troubleshooting needs
 - **Step-by-step record review** as the main reconciliation method
 
 > ⚠️ **Important:** This tool does **not** persist reconciliation data.  
-> Any comparison state is temporary unless you export/save it externally.
 
 ---
 
@@ -63,7 +62,6 @@ This project is useful when:
 ## Tech Stack
 
 - **React** (Create React App base)
-- **JavaScript**
 - Basic client-side state management (no persistent DB layer)
 
 ---
