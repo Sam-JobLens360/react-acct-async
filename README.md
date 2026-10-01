@@ -1,7 +1,6 @@
 # React Account Async
 
 ![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![Data](https://img.shields.io/badge/Data-No%20Persistent%20Storage-red)
 ![Purpose](https://img.shields.io/badge/Purpose-Account%20Reconciliation-blue)
